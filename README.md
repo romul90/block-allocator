@@ -12,7 +12,7 @@ It is needed to:
 - [ ] Create CMake-style package
 - [ ] Add more Unit-tests (using Catch)
 
-P.S. Before that, I had never completely touched allocators and embedded systems. I was engaged in C++ in conjunction with ROS - worked on the creating of the trajectory of robots, developed scripts for this, and also worked on the implementation of the direct and inverse positioning problem for the three-manipulator robot. I suspect that this allocator project can hardly be called fully or partially suitable for work, however, the search, study and creation of this project was an interesting time. Thanks.
+P.S. Before that, I had never completely touched allocators and embedded systems. I was engaged in C++ in conjunction with ROS - worked on the creating of the trajectory of robots, developed scripts for this, and also worked on the implementation of the direct and inverse positioning problem for the three-manipulator robot. I suspect that this allocator project can hardly be called fully or partially suitable for work, however, the search, study and creation of this project was an interesting time. Thanks. It would be interesting to hear an opinion about this code, although it is largely taken from another source.
 
 Reference list:
 
@@ -29,3 +29,5 @@ https://blog.molecular-matters.com/2011/07/05/memory-system-part-1/
 https://habr.com/ru/post/106294/
 
 https://ru.cppreference.com/w/cpp/types/size_t
+
+Ivan Romanov
